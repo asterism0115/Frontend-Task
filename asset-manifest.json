@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Frontend-Task/static/css/main.8a2f77bd.chunk.css",
+    "main.js": "/Frontend-Task/static/js/main.498f7ed0.chunk.js",
+    "main.js.map": "/Frontend-Task/static/js/main.498f7ed0.chunk.js.map",
+    "runtime~main.js": "/Frontend-Task/static/js/runtime~main.343fb1b3.js",
+    "runtime~main.js.map": "/Frontend-Task/static/js/runtime~main.343fb1b3.js.map",
+    "static/js/2.d8afe540.chunk.js": "/Frontend-Task/static/js/2.d8afe540.chunk.js",
+    "static/js/2.d8afe540.chunk.js.map": "/Frontend-Task/static/js/2.d8afe540.chunk.js.map",
+    "index.html": "/Frontend-Task/index.html",
+    "precache-manifest.7e41557b5bbeb75d25e8a0b60e608e26.js": "/Frontend-Task/precache-manifest.7e41557b5bbeb75d25e8a0b60e608e26.js",
+    "service-worker.js": "/Frontend-Task/service-worker.js",
+    "static/css/main.8a2f77bd.chunk.css.map": "/Frontend-Task/static/css/main.8a2f77bd.chunk.css.map"
+  }
+}
