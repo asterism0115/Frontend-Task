@@ -1,8 +1,8 @@
-Simple animated deck of cards using [Deck of Cards API](https://deckofcardsapi.com/), React JS and [React Simple Animate](https://github.com/bluebill1049/react-simple-animate). 
+Simple animated deck of cards using [Deck of Cards API](https://deckofcardsapi.com/)
 
 ## Live Demo
 
-[Click here!](https://dpw1.github.io/react-deck-of-cards/)
+[Click here!](https://asterism0115.github.io/Frontend-Task/)
 
 ## Known Issue
 
